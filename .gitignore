@@ -1,0 +1,11 @@
+node_modules/
+.fuse_hidden*
+config.txt
+backend/.env
+backend/node_modules
+frontend/node_modules
+package-lock.json
+prac.js
+sampledata
+database/data
+bugs.txt
